@@ -1,0 +1,12 @@
+Create a New Application Integration
+Platform
+You can attached a native mobile app to SWA or SAML web app.
+Sign on method
+Secure Web Authentication (SWA)
+Users credentials to sign in. This intgeration works with most apps.
+SAML 2.0
+Uses the SAML protocol to log users into the app. This is a better option than SWA, if the app supports it.
+OpenID Connect
+Uses the OpenID Connect protocol to log users into an app you've built.
+Create
+Cancel
