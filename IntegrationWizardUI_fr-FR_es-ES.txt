@@ -1,0 +1,12 @@
+Créer une Nouvelle Application Integration
+Plataforma
+Vous pouvez ci-joint une la aplicaci�n m�vil nativa de SWA ou SAML aplicaci�n web.
+Inscrivez-vous sur la méthode
+L'autentificaci�n Web sécurisé (SWA)
+Identificaci�n des Utilisateurs pour s'identifier. Cette intgeration travaille avec la plupart des aplicaciones.
+SAML 2.0
+Utilizar le protocole SAML connecter pour les utilisateurs � l'aplicaci�n. C'est une meilleure opci�n que SWA, si l'aplicaci�n prend en carga.
+OpenID Connect
+Utilizar le protocole OpenID conectarse pour se connecter les utilisateurs � l'aplicaci�n que vous avez construit.
+Créer
+Annuler
