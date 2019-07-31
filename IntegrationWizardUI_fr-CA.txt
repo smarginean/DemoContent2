@@ -1,0 +1,12 @@
+Créer une nouvelle intégration d'application
+Plate-forme
+Vous pouvez joindre une application mobile native à une application Web avec composante SWA ou SAML.
+Méthode de connexion
+Authentification Web sécurisée (SWA)
+Informations d'identification des utilisateurs pour se connecter. Cette intégration fonctionne avec la plupart des applications.
+SAML 2.0
+Utilise le protocole SAML pour connecter les utilisateurs à l'application. Ceci est une meilleure option que SWA, si l'application le prend en charge.
+OpenID Connect
+Utilise le protocole OpenID Connect pour connecter les utilisateurs à une application que vous avez créée.
+Créer
+Annuler
