@@ -1,0 +1,14 @@
+1 email complex = foreach simplu = 20 sec
+		= foreach parallel = 10 sec
+
+2 email complex = foreach simplu = 61 secunde
+		= foreach parallel = 23 secunde
+
+4 email complex = foreach simplu = 105 secunde
+		= foreach parallel = 45 secunde
+
+
+8 files = ~2:20 -> 2:25 parallel (5 in 2 secunde)	
+	= ~3:00 foreach simplu
+
+	
