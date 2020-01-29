@@ -1,0 +1,10 @@
+Hierbei handelt es sich um eine Testdatei, die nur zu Testzwecken verwendet wird, um eine genauere bersetzung zu erhalten.
+Aussi hoffe ich, dass das funktioniert!
+
+XML-Testformat :
+<?xml version="1.0" encoding="UTF-8"?>
+-<Result XDIP="6710a63d1e114a869594e8ab8446a2b/TTC/118124894/214363321">
+-<Élément>
+-<![CDATA[<p><span style="color: RGB(34,34);"> IMDb es una base de données en lnea de informacine relacionada con pelculas, programmes de télévision, védos domsticos, videojuegos y contenido de transmisin en lnea &ndash; Biografas p produccin personales, Personal de resmenes y de reparto, crticas de ploteo, trvia, revisiones crticas y crticas, y classificaciones</span><span style="34,34";<span style="-34,34";<span style="span texte";<34,34"; https://en.wikipedia.org/wiki/IMDb">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+</Elément>
+</Résultat>
