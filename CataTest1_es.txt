@@ -1,0 +1,10 @@
+Se trata de un archivo de prueba que sólo se utiliza para fines de prueba, para que la traducción sea más específica.
+¡así que espero que esto funcione!
+
+Formato xml de prueba:
+<?xml version="1.0" encoding="UTF-8"?>
+-<Result Xdip="6710a63d1e114a869594e8ab8446af2b/TTC/118124894/214363321">
+-<Elemento>
+-<![CDATA[<p><span style="color: RGB(34,34,34);">IMDb es una base de datos en línea de información relatada con películas, programas de televisión, rodeos domésicos, videojuegos y contenido de transmisión en &línea disnea; Que incluye biografías personales, productos personales y de reparación, recomendaciones y recomendaciones, y clasificaciones</span><span> 34,34<br><span><br><span><span><span><span><span><span><span><34,34 p><34,34 span> https://en.wikipedia.org/wiki/IMDb"<p><span><span><p><span><span><<span><span><p<r><span><r><r><r><span><r><r><span><p><r><r><r><r><span><r><p><p><r><r><r><r><r><r><span><r><r><r><span><r><r><r><span><span><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><r><span><span><r><
+</Elemento>
+</Result>
