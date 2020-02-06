@@ -1,0 +1,10 @@
+Il s'agit d'un fichier de test utilisÃ© uniquement Ã  des fins de test, pour une traduction plus spÃ©cifique.
+J'espÃ¨re donc que cela fonctionne !
+
+Format xml de test :
+<?xml version="1.0" encoding="UTF-8"?>
+-<Result XDIP="6710a63d1e114a869594e8ab8446a2b/TTC/118124894/214363321">
+-<Ã‰lÃ©ment>
+ RVB(34,34);">IMDb es una base de donnÃ©es en lÃ­nea de informaciÃ³n relacionada con pelÃ­culas, programas de televisiÃ³n, vÃ­deos domÃ©sticos, videojuegos y contenido de transmisiÃ³n en lÃ­nea &ndash; Que incluye biografÃ­as personales, Personal de producciÃ³n y de reparto, resÃºmenes de ploteo, trivia, revisiones crÃ­ticas y crÃ­ticas y crÃ­ticas, y clasificaciones</span><span style="34,34";<span style="-34,34";<span style="span style="span"> https://en.wikipedia.org/wiki/IMDb"<p>Wikip><p><p><p><p><p><p><p><p/<p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p> RVB(34,34aicta);<<<span sp><span><span><span p><span><span><span p><span p><>r><>r><span p><span p><>r><>r><span><>r><span>]>
+</ElÃ©ment>
+</RÃ©sultat>
