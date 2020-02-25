@@ -1,12 +1,12 @@
-Erstellen Sie einen neuen Application Integration
+Erstellen Sie eine neue Anwendungsintegration
 Plattform
-Sie k�nnen eine native mobile App zu SWA oder SAML-web App.
-Auf der Methode anmelden
-Secure Web Authentifizierung (SWA)
-Benutzer Anmeldeinformationen anmelden. Diese intgeration funktioniert mit den meisten Anwendungen.
+Sie k�nnen eine native mobile App an die SWA- oder SAML-Webanwendung anh�ngen.
+Anmeldemethode
+Sichere Webauthentifizierung (Secure Web Authentication, SWA)
+Benutzeranmeldeinformationen f�r die Anmeldung. Diese Intgeration funktioniert mit den meisten Apps.
 SAML 2.0
-Verwendet die SAML-Protokolls Benutzer in der Anwendung anmelden. Dies ist eine bessere Option als SWA, wenn die Anwendung dies unterst�tzt.
-OpenID verbinden
-Verwendet die OpenID-Protokoll verbinden Benutzer in eine Anwendung, die Sie aufgebaut haben, anmelden.
+Verwendet das SAML-Protokoll, um Benutzer bei der Anwendung anzumelden. Dies ist eine bessere Option als SWA, wenn die App sie unterst�tzt.
+OpenID Connect
+Verwendet das OpenID Connect-Protokoll, um Benutzer bei einer von Ihnen erstellten App anzumelden.
 Erstellen
 Abbrechen
