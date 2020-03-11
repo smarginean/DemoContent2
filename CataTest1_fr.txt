@@ -1,10 +1,10 @@
-Il s'agit d'un fichier de test utilisé uniquement à des fins de test, pour une traduction plus spécifique.
-J'espère donc que cela fonctionne !
+Il s'agit d'un fichier de test utilis� uniquement � des fins de test, pour une traduction plus sp�cifique.
+J'esp�re donc que cela fonctionne !
 
 Format xml de test :
 <?xml version="1.0" encoding="UTF-8"?>
 -<Result XDIP="6710a63d1e114a869594e8ab8446a2b/TTC/118124894/214363321">
--<Élément>
--<![CDATA[<p><span style="color: RGB(34,34);">IMDb es una base de données en línea de información relacionada con películas, programs de televisión, vídeos domésticos, videojuegos y contenido de transmisión en línea &ndash; Que incluye biografías personales, Personal de producción y de reparto, resúmenes de ploteo, trivia, revisiones críticas y críticas y críticas, y clasificaciones</span><span style="34,34";<span style="-34,34"<span style="span="span"> https://en.wikipedia.org/wiki/IMDb"<p><span><span><span><p><p><span><p><span><p><p><p><p><p><p><p><p><span><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p>
-</Elément>
-</Résultat>
+-<�l�ment>
+-<![CDATA[<p><span style="color: RGB(34,34);">IMDb es una base de donn�es en l�nea de informaci�n relacionada con pel�culas, programs de televisi�n, v�deos dom�sticos, videojuegos y contenido de transmisi�n en l�nea &ndash; Que incluye biograf�as personales, Personal de producci�n y de reparto, res�menes de ploteo, trivia, revisiones cr�ticas y cr�ticas y cr�ticas, y clasificaciones</span><span style="34,34";<span style="-34,34"<span style="span="span"> https://en.wikipedia.org/wiki/IMDb"<p><span><span><span><p><p><span><p><span><p><p><p><p><p><p><p><p><span><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p><p>
+</El�ment>
+</R�sultat>
