@@ -1,0 +1,10 @@
+This is a test file used only for testing purposes, for translation to be more specific.
+So I hope this works!
+
+Test xml format:
+<?xml version="1.0" encoding="UTF-8"?>
+-<Result Xdip="6710a63d1e114a869594e8ab8446af2b/TTC/118124894/214363321">
+-<Item>
+-<![CDATA[<p><span style="color: RGB(34,34,34);">IMDb es una base de datos en lÃ­nea de informaciÃ³n relacionada con pelÃ­culas, programas de televisiÃ³n, vÃ­deos domÃ©sticos, videojuegos y contenido de transmisiÃ³n en lÃ­nea &ndash; que incluye biografÃ­as personales, personal de producciÃ³n y de reparto, resÃºmenes de ploteo, trivia, revisiones crÃ­ticas y crÃ­ticas y crÃ­ticas, y clasificaciones</span><span style="34,34";<span style="-34,34";<span style="span text";<34,34"; Ninguno;" href="https://en.wikipedia.org/wiki/IMDb" class="q ruhjFe NJLBac fl">Wikipedidi</a>a</span></p><p><br /></p><p><p><br /></p><p><p><br /></p><span style="color: RGB(34,34aicta);<<<span sp><span><span><span p><span><span p><span p><>r><>r><span p><span p><>r><>r><span><>r><span>]]>
+</Item>
+</Result>
