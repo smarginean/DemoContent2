@@ -1,10 +1,10 @@
-Se trata de un archivo de prueba que sólo se utiliza para realizar pruebas, para que la traducción sea más específica.
-¡Espero que esto funcione!
+Se trata de un archivo de prueba que s�lo se utiliza para realizar pruebas, para que la traducci�n sea m�s espec�fica.
+�Espero que esto funcione!
 
 Probar formato xml:
 <?xml version="1.0" encoding="UTF-8"?>
 -<resultado Xdip="6710a63d1e114a869594e8ab8446af2b/TTC/118124894/214363321">
 -<elemento>
--<![CDATA[<p><span style="color: RGB(34,34,34);">IMDb es una base de datos en línea de información relacionada con células, programas de televisión, vídeos domésticos y contenido de transmisión en línea &ndash; Que incluye biografías personales, personal de producción y reparación, números de ploteo, trivia, revisiones criticas y criticas y criticas, y clases</span><span style="-34,34";<span style="span"><r><span style</span><p><r><span</p><span><r><span<<span style<<34,34"><p><span<<p><r><span><span<<p><span><p><span</p><<<span><<span><r><span><span<<<34,34<<span><span><r><span<<r><span><span<<span<<<<<span><span><https://en.wikipedia.org/wiki/IMDb"<<span><span><span><r><<<span><span<<span><span><span<<p><r><<<span><span><span<<r><<span<<span><span<<span><r><<span<< <
+-<![CDATA[<p><span style="color: RGB(34,34,34);">IMDb es una base de datos en l�nea de informaci�n relacionada con c�lulas, programas de televisi�n, v�deos dom�sticos y contenido de transmisi�n en l�nea &ndash; Que incluye biograf�as personales, personal de producci�n y reparaci�n, n�meros de ploteo, trivia, revisiones criticas y criticas y criticas, y clases</span><span style="-34,34";<span style="span"><r><span style</span><p><r><span</p><span><r><span<<span style<<34,34"><p><span<<p><r><span><span<<p><span><p><span</p><<<span><<span><r><span><span<<<34,34<<span><span><r><span<<r><span><span<<span<<<<<span><span><https://en.wikipedia.org/wiki/IMDb"<<span><span><span><r><<<span><span<<span><span><span<<p><r><<<span><span><span<<r><<span<<span><span<<span><r><<span<< <
 </elemento>
 </Resultado>
