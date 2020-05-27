@@ -1,0 +1,10 @@
+Dies ist eine Testdatei, die nur zu Testzwecken verwendet wird, um die Übersetzung genauer zu machen.
+Ich hoffe also, dass das funktioniert!
+
+XML-Format testen:
+<?XML Version=„1.0“ encoding=„UTF-8“?>
+-<result XDIP=„6710a63d1e114a869594e8ab8446af2b/TTC/118124894/214363321“>
+-<Element>
+-<![CDATA[<p><span style=„color: RGB(34,34,34);“>IMDb es una base de datos en línea de información relacionada con películas, programas de televisión, vídeos domésticos, videojuegos y contenido de transmisión en línea &ndash; biografías include producción personales, Personal de resúmenes y de reparto, críticas de ploteo, trivia, reviciones críticas y críticas y<, y clasificaciones</span> 34,34 span style=„<“; 34,34 span style=“-<“;<span style=„span Text“; 34,34 https://en.wikipedia.org/wiki/IMDb"“; NJLbr< span>< p<>>< p>>><<p />>>< p<<p<<p><>>>>><p<<<<<<<<<<<<<<<<<<<<
+</Element>
+</Ergebnis>
